@@ -9,4 +9,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="accent_pink">#FE2BD0</color>
+    <color name="name_pink">#9E2E81</color>
+    <color name="desc_black">#262525</color>
+    <color name="price_purple">#B60089</color>
 </resources>
